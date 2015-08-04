@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/compact/angular-bootstrap-lightbox.git"
+    "url": "git@github.com:LunarLogic/angular-bootstrap-lightbox.git"
   },
   "homepage": "http://compact.github.io/angular-bootstrap-lightbox/",
   "dependencies": {},
